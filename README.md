@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Ikki Currently learning networking and Cybersecurity <br>
+Hi, I'm Ikki! 👋
+
+I am a Networking & Cybersecurity enthusiast understanding how the world connects—and how to keep those connections safe. I spend my days (and late nights) analyzing packets, configuring virtual labs, and exploring the world of cybersecurity.
+
+My approach is simple: Stay curious, stay secure. I’m currently focused on mastering the OSI model, refining my Linux command-line skills, and documenting my journey one lab at a time. I myself also a scientist (sofware programmer) myself <br>
 
 
 # 💻 Tech Stack:
